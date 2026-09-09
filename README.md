@@ -1,2 +1,2 @@
-# 17Lab-Korean-Localization
+# CADASH-KOREAN-LOCALIZATION
 I do Unofficial Korean Localization
